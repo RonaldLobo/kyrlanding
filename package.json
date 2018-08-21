@@ -1,0 +1,24 @@
+{
+  "name": "landing",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "core-js": "^2.4.1",
+    "csurf": "^1.9.0",
+    "express": "^4.16.2",
+    "require-dir-all": "^0.4.12",
+    "rxjs": "^5.5.6",
+    "server-destroy": "^1.0.1",
+    "zone.js": "^0.8.19"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "8.9.4",
+    "npm": "5.6.0"
+  }
+}
